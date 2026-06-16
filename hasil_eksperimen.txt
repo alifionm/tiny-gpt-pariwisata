@@ -1,0 +1,119 @@
+HASIL EKSPERIMEN TINY GPT - CORPUS PARIWISATA INDONESIA
+Link corpus: https://github.com/alifionm/tiny-gpt-pariwisata/blob/main/corpus.txt
+
+Jumlah kata corpus: 2043
+
+Tokenisasi Model Type  Vocab Size  Total Token  Final Loss
+       bpe        bpe          80        10973      1.2868
+   unigram    unigram          80        11856      1.5335
+      char       char          53        16027      1.4811
+      word       word         300         1789      0.2857
+
+================================================================================
+TOKENISASI: BPE
+Model type: bpe
+Vocab size: 80
+Total token: 10973
+Final loss: 1.2868
+
+Loss history:
+Step 0, loss=4.5592
+Step 100, loss=2.7482
+Step 200, loss=2.3720
+Step 300, loss=2.1567
+Step 400, loss=1.8813
+Step 500, loss=1.5984
+Step 600, loss=1.5815
+Step 700, loss=1.2868
+
+Generated outputs:
+
+Prompt: Pariwisata Indonesia
+Pariwisata Indonesia menjadian yang bekaik. Tidak dimindaki lebih perjalan pantasi. Akteksan di destinasi yang menedidak bisnya, e
+
+Prompt: Wisatawan dapat
+Wisatawan dapat mencakan kepasi, tetapi juga taripat bahwi aspi, perakaian menarik menggenti kestarian lih dapat menjaga badiakan 
+
+Prompt: Desa wisata
+Desa wisata yang mudah memiliki pengalaman pemandu sepeda yang membatkan perjalanan tet destinasi, membukan produk budaya, akti, d
+================================================================================
+TOKENISASI: UNIGRAM
+Model type: unigram
+Vocab size: 80
+Total token: 11856
+Final loss: 1.5335
+
+Loss history:
+Step 0, loss=4.5695
+Step 100, loss=2.6396
+Step 200, loss=2.3558
+Step 300, loss=2.1914
+Step 400, loss=2.0094
+Step 500, loss=1.9501
+Step 600, loss=1.7319
+Step 700, loss=1.5335
+
+Generated outputs:
+
+Prompt: Pariwisata Indonesia
+Pariwisata Indonesiap ebihat lakuhat lokal. Pengang. Ekowisata yang alaminformasi keragaman lamakukan perbang tersertahan 
+
+Prompt: Wisatawan dapat
+Wisatawan dapat menjadil. Selehit wisatawan masawasa cuagitas meningkarena baik hanya menarikuti mengajawapan buajah lingkungan 
+
+Prompt: Desa wisata
+Desa wisata baik lokal. Penge dapat memberi pengutaham alamMloleh memilihal dapat menaliti karena mendapat mempediak sesuat kag
+================================================================================
+TOKENISASI: CHAR
+Model type: char
+Vocab size: 53
+Total token: 16027
+Final loss: 1.4811
+
+Loss history:
+Step 0, loss=4.1619
+Step 100, loss=2.0407
+Step 200, loss=1.9991
+Step 300, loss=1.7994
+Step 400, loss=1.7268
+Step 500, loss=1.6515
+Step 600, loss=1.4322
+Step 700, loss=1.4811
+
+Generated outputs:
+
+Prompt: Pariwisata Indonesia
+Pariwisata Indonesia disilitap perjalang babuh, barah, modestiRal koprmah, caCan alam, pertakan teta
+
+Prompt: Wisatawan dapat
+Wisatawan dapat membangunjung dari trampan pariwisata arur wi. Seperta membuat sruse wisata. Wi
+
+Prompt: Desa wisata
+Desa wisata kawahantan sima kowisata Indengan vingkinisis dtes menjadi semah membangkan ses
+================================================================================
+TOKENISASI: WORD
+Model type: word
+Vocab size: 300
+Total token: 1789
+Final loss: 0.2857
+
+Loss history:
+Step 0, loss=5.8626
+Step 100, loss=3.4377
+Step 200, loss=1.9615
+Step 300, loss=0.8435
+Step 400, loss=0.4485
+Step 500, loss=0.3676
+Step 600, loss=0.2798
+Step 700, loss=0.2857
+
+Generated outputs:
+
+Prompt: Pariwisata Indonesia
+Pariwisata Indonesia memiliki peluang besar karena ⁇  alam dan budaya yang tidak ⁇  banyak ⁇  lain. Namun peluang ⁇  harus ⁇  dengan ⁇  yang baik. ⁇  masyarakat, pelaku ⁇  dan wisatawan perlu ⁇  dapat membangun ⁇  dan ⁇  menjaga budaya dan lingkungan. ⁇  usaha menyediakan layanan yang ⁇  melakukan ⁇  dan ⁇  Wisatawan ⁇  perjalanan. ⁇  seperti ini membuat pariwisata lebih ⁇  dan ⁇  wisata yang ⁇  sering muncul pasar tradisional, warung kaki ⁇  keluarga, atau sekadar berjalan ⁇  di ⁇  laut.
+
+Prompt: Wisatawan dapat
+Wisatawan dapat ⁇  hotel, ⁇  atau penginapan ⁇  kebutuhan dan ⁇  di desa wisata memberikan kesempatan untuk ⁇  langsung dengan warga lokal. ⁇  di kota menyediakan akses mudah ke pusat ⁇  risiko perjalanan, kelestarian alam. ⁇  transportasi umum, papan ⁇  layanan ⁇  dan sistem pengelolaan untuk ⁇  wisatawan tanpa ⁇  kerusakan. Jika jumlah pengunjung ⁇  kualitas pengalaman akan ⁇  dan lingkungan bisa ⁇  Oleh ⁇  itu, ⁇  jumlah wisatawan, ⁇  kunjungan, dan jalur ⁇  perlu ⁇  dengan baik. Pariwisata juga dapat menjadi
+
+Prompt: Desa wisata
+Desa wisata menawarkan pengalaman yang lebih dekat dengan kehidupan masyarakat lokal. Wisatawan dapat belajar ⁇  membuat ⁇  makanan tradisional, mengikuti ⁇  adat, ⁇  cerita ⁇  atau ⁇  di ⁇  desa wisata penting karena manfaat ekonomi dapat langsung ⁇  oleh masyarakat setempat. ⁇  tidak hanya menjadi ⁇  tetapi juga menjadi ⁇  yang baik dapat membuat wisatawan merasa ⁇  dengan masa ⁇  dan lebih menghargai ⁇  menjadi alasan ⁇  melakukan perjalanan. Setiap daerah di Indonesia memiliki makanan ⁇  dengan ⁇  dan cara ⁇  yang

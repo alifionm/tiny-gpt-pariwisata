@@ -1,0 +1,5 @@
+Tokenisasi,Model Type,Vocab Size,Total Token,Final Loss
+bpe,bpe,80,10973,1.2868
+unigram,unigram,80,11856,1.5335
+char,char,53,16027,1.4811
+word,word,300,1789,0.2857
